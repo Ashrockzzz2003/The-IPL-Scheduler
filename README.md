@@ -6,3 +6,6 @@ The IPL Scheduler is built based on the Indian Premier League(IPL).
 - It's also required to give at least a day's gap between consecutive matches for each team, to ensure equal chance to all teams.
 
 `Ashwin Narayanan S`
+`Ananya R`
+`A Sreepadh`
+`Arjun P`
